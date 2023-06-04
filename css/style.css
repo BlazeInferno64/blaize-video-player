@@ -24,6 +24,7 @@ body, .container, .video-controls, .video-timer, .options{
   user-select: none;
   overflow: hidden;
   max-width: 900px;
+  object-fit: cover;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
   background: #000;
@@ -297,6 +298,9 @@ input[type="file"]{
   border-radius: 50%;
  /* box-shadow: 0 0px 20px 0 rgba(0, 0, 0, .75);*/
 }
+#video{
+  object-fit: cover;
+  }
 @media screen and (max-width: 540px) {
   .wrapper .video-controls{
     padding: 3px 10px 7px;
