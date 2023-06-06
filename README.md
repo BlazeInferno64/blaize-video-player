@@ -5,10 +5,10 @@ Blaize Video Player is a responsive web app which allows anybody to play videos 
 
 # View it here-
 
-<a href="https://blaizinginfernodragon123.github.io/blaize-video-player/">
+<a href="https://blazeinferno64.github.io/blaize-video-player/">
 
 ```
-https://blaizinginfernodragon123.github.io/https://blaizinginfernodragon123.github.io/blaize-video-player/
+https://blazeinferno64.github.io/blaize-video-player/
 ```
 </a>
 
